@@ -1,0 +1,13 @@
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.exe
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.deps.json
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.runtimeconfig.json
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.runtimeconfig.dev.json
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.dll
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\bin\Debug\netcoreapp3.1\GamblingSamulationProblem.pdb
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.csprojAssemblyReference.cache
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.AssemblyInfoInputs.cache
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.AssemblyInfo.cs
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.dll
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.pdb
+C:\Users\laksh\source\repos\GamblingSamulationProblem\GamblingSamulationProblem\obj\Debug\netcoreapp3.1\GamblingSamulationProblem.genruntimeconfig.cache
