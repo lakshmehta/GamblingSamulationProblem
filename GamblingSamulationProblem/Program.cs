@@ -7,21 +7,36 @@ namespace GamblingSamulationProblem
 
 		public const int WIN = 1;
 		public const int STAKE = 100;
-		public const int BET = 1;
-		static void Main(string[] args)
+        public const int BET = 1;
+		public static void callMethod()
 		{
 			int amountLeft = 100;
+			//int numOfBets = 0;
 			Random random = new Random();
-			int win_loss = random.Next(0, 2);
-			if (win_loss == WIN)
+			while (amountLeft != amountLeft / 2 || amountLeft == amountLeft + 50)
 			{
-				amountLeft = STAKE + BET;
+				//numOfBets++;
+				int win_loss = random.Next(0, 2);
+				if (win_loss == WIN)
+				{
+					amountLeft = amountLeft + BET;
+					Console.WriteLine(amountLeft);
+					if (amountLeft == 150)
+						break;
+				}
+				else
+				{
+					amountLeft = amountLeft - BET;
+					Console.WriteLine(amountLeft);
+					if (amountLeft == 50)
+						break;
+				}
 			}
-			else
-			{
-				amountLeft = STAKE - BET;
-			}
-			Console.WriteLine("The amount I have lefft after betting is: " + amountLeft);
+			Console.WriteLine("The amount I have left after betting is: " + amountLeft);
+		}
+		static void Main(string[] args)
+		{
+			callMethod();
 			Console.ReadLine();
 
 		}
